@@ -1,0 +1,29 @@
+.sidebar-container{
+  display: flex;
+}
+
+.main-container{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+}
+
+.post{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.tags{
+  margin: 5px;
+}
+
+.reactions{
+  margin-top: 3px;
+}
+
+.form{
+  width: 60%;
+  margin-left: 10%;
+}
